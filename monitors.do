@@ -1,5 +1,5 @@
 clear
-set mem 1000m
+
 
 cd /Users/michaelfutch/chicagopublic/monitors
 
